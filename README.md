@@ -1,11 +1,3 @@
-LESS PHP compiler
----------------------
-This is a simple PHP based LESS compiler, it takes in all the LESS within the specified file, converts it to CSS and then flattens it and minifies it. 
-
-There are two versions, one a straight less compiler that is used as part of the build.xml and the other a version that outputs the CSS to a file. 
-
-
-
 # PHP Compiler for LESS
 
 This is a simple PHP based LESS compiler, it takes in all the LESS within the specified file, converts it to CSS and then flattens it and minifies it. 
